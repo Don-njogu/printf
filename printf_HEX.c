@@ -35,3 +35,7 @@ int printf_HEX(va_list val)
 	free(array);
 	return (counter);
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> c17544b85a91bc46ae052708e4d94d23056785f8
