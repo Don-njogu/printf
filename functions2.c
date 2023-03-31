@@ -148,7 +148,7 @@ int print_reverse(va_list types, char buffer[],
 int print_rot13string(va_list types, char buffer[],
 	int flags, int width, int precision, int size)
 {
-	char x;
+	car x;
 	char *str;
 	unsigned int i, j;
 	int count = 0;
